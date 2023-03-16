@@ -1,0 +1,135 @@
+body{
+    margin:0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}/* EFRATA ARON 22/X/5249/PS*/
+
+    
+
+h2{
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px; 
+    color: #66BFBF;
+    bottom: 20px;
+   position: absolute;
+   
+   
+}
+
+
+
+.My-photo{
+    
+    
+    position: absolute;
+    right: 92px;
+    display: flex;
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color:  rgb( 68, 114, 196);
+    height: 200px;
+    width: 300px;
+    padding: 20px;
+    border: 0;
+    margin: 30px;
+}
+
+.My-photo:hover {
+    background-color: rgb(186, 145, 237);
+}
+
+.My-bio{
+    
+  
+
+
+    position: absolute;
+    left: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    background-color: rgb(201, 201, 201);
+    height: 200px;
+    width: 300px;
+    padding: 20px;
+    border: 0;
+    margin: 30px;
+    margin-left: 122px;
+    
+    
+}
+  
+.My-bio:hover {
+    background-color: rgb(112, 208, 223);
+}
+
+
+.My-Education-History{
+   
+ 
+
+    position: absolute;
+    top: 64%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb( 132, 150, 176);
+    height: 200px;
+    width: 300px;
+    padding: 20px;
+    border: 0;
+    
+   
+   
+  
+    
+}
+.My-Education-History:hover {
+    background-color: rgb(241, 225, 108);
+}
+
+.Hobbies{
+ 
+
+
+    position: absolute;
+    left: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: rgb(142, 170, 219);
+    height: 200px;
+    width: 300px;
+    padding: 20px;
+    border: 0;
+    margin: 510px;
+    margin-left: 122px;
+    
+}
+.Hobbies:hover {
+    background-color: rgb(243, 113, 208);
+}
+.Contact-me {
+  
+
+    position: absolute;
+    right: -388px;
+    display: flex;
+    background-color:  rgb(247, 202, 172);
+    height: 200px;
+    width: 300px;
+    padding: 20px;
+    border: 0;
+    margin: 510px;
+    display: flex;
+    flex-wrap: wrap;
+   
+    
+}
+
+.Contact-me:hover {
+background-color: rgb(26, 206, 38);
+
+}
